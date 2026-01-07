@@ -4,6 +4,8 @@
 
 ## Understanding the Spring Petclinic application with a few diagrams
 
+##testing poll scm
+
 See the presentation here:  
 [Spring Petclinic Sample Application (legacy slides)](https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application?slide=20)
 
